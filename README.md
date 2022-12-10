@@ -42,6 +42,6 @@ Algorythm is very simple.
 - Data base classes are formed for each tags.
 - Tags data are then converted to html while filtering allowed tags and allowed attributes.
 - Value names of attributes are converted through short-cut name list.
-- `allowattr` flag control to allow native attributes of html.
+- `limitattr` flag control to allow native attributes of html.
 ## Contact
 Contact me for comercial use via mail winaungcho@gmail.com.
