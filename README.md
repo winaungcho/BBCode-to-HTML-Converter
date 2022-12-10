@@ -40,8 +40,8 @@ Algorythm is very simple.
 - Matches types are tag, attributes and inner-html.
 - Tag ommitting can be detected.
 - Data base classes are formed for each tags.
-- Tags data are then convert to html while filtering allowed tags and allowed attributes.
+- Tags data are then converted to html while filtering allowed tags and allowed attributes.
 - Value names of attributes are converted through short-cut name list.
-- allowattr flag control to allow native attributes of html.
+- `allowattr` flag control to allow native attributes of html.
 ## Contact
 Contact me for comercial use via mail winaungcho@gmail.com.
